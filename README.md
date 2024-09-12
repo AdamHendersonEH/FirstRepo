@@ -1,2 +1,3 @@
 # FirstRepo
-test repo
+This is a test repo for intro to git/github. 
+We are so back
